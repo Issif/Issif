@@ -1,2 +1,2 @@
-![https://github-readme-stats.vercel.app/api?username=Issif&show_icons=true](https://github-readme-stats.vercel.app/api?username=Issif&show_icons=true)
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Issif&hide=html&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Issif&hide=html&layout=compact)
+![https://github-readme-stats.vercel.app/api?username=Issif&show_icons=true](https://github-readme-stats.vercel.app/api?username=Issif&show_icons=true&theme=dark&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Issif&hide=html&layout=compact&layout=donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Issif&hide=html&layout=compact&theme=dark&hide_border=true)
